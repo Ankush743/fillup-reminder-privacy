@@ -20,4 +20,9 @@ Each app has its own app-specific policy:
 - Package: `com.mayaverselabs.mazeball`
 - Privacy URL: `https://ankush743.github.io/fillup-reminder-privacy/mazeball/`
 
+## TiltScapes
+
+- Package: `com.mayaverselabs.tiltscapes`
+- Privacy URL: `https://ankush743.github.io/fillup-reminder-privacy/tiltscapes/`
+
 Do not place keystores, credentials, private user data, APKs, AABs, or other release secrets in this repository.
